@@ -2,7 +2,12 @@
 
 > 한국인 특화 콩글리시 교정 & 현지 회화체 변환 AI
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+
+[![GitHub Stars](https://img.shields.io/github/stars/cofldus/killkong_konglish-corrector?style=for-the-badge)](https://github.com/cofldus/killkong_konglish-corrector/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/cofldus/killkong_konglish-corrector?style=for-the-badge)](https://github.com/cofldus/killkong_konglish-corrector/network)
+[![GitHub Issues](https://img.shields.io/github/issues/cofldus/killkong_konglish-corrector?style=for-the-badge)](https://github.com/cofldus/killkong_konglish-corrector/issues)
+(https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-009688.svg)](https://fastapi.tiangolo.com)
 
@@ -220,3 +225,4 @@ MIT License - see [LICENSE](LICENSE) file
 ---
 
 Made with ❤️ by Team A4
+
